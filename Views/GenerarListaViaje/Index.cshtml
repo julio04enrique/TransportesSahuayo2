@@ -1,0 +1,105 @@
+﻿@{
+	ViewData["Title"] = "GenListViaje";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script>
+	$(document).ready(function(){
+		$.ajax({
+			url: '/GenerarListaViaje/GetChoferes',
+			type: 'POST',
+			dataType:'json',
+			success: function(data){
+				
+				$("#slcChofer").html("<option value='0'>Selecciona Un Chofer </option>");
+				var select = document.getElementById("slcChofer");
+				data.forEach(function (value, index) {
+					var option = document.createElement("option");
+					option.text = value.nombre;
+					option.value = value.cveChofer;
+					select.add(option);
+				});
+			},
+			error: function () {
+
+			}
+		})
+	});
+</script>
+@if (TempData.ContainsKey("Exception"))
+{
+	@Html.Raw(TempData["Exception"].ToString())
+}
+<div class="ui container segment">
+	<a class="ui blue ribbon label">Generar Listado de Viajes</a>
+	<form method="post" action="@Url.Action("ConsultaListado","GenerarListaViaje")">
+		<div class="fields">
+			<div class="four wide field">
+				<label>Chofer</label>
+				<select class="ui selected" id="slcChofer" name="cveChofer" required></select>
+			</div>
+		</div>
+		<div class="fields">
+			<div class="four wide field">
+				<label>Fecha Inicio</label>
+				<input type="date" id="fechaInicio" name="inicio" required />
+			</div>
+			<div class="four wide field">
+				<label>Fecha Fin</label>
+				<input type="date" id="fechaFin" name="fin" required />
+			</div>
+		</div>
+		<div class="fields">
+			<div class="five wide centered field">
+				<button type="submit" class="medium ui green button" name="accion" value="GenList">Generar Listado</button>
+			</div>
+			<div class="five wide centered field">
+				<button type="submit" class="medium ui green button" name="accion" value="GenListForWeek" formnovalidate>Generar Listado Por semana Actual</button>
+			</div>
+		</div>
+	</form>
+</div>
+@if (ViewData.ContainsKey("ListViajes") && ViewData.ContainsKey("CosteTotal"))
+{
+	var list = ViewData["ListViajes"] as List<ViajesChofer>;
+	
+	<div class="ui container segment">
+		<table class="ui celled table">
+			<thead>
+				<tr>
+					<th>Chofer</th>
+					<th>Destino</th>
+					<th>Fecha</th>
+					<th>Costo</th>
+					<th>Maniobra</th>
+					<th>Control Vehicular</th>
+				</tr>
+			</thead>
+			<tbody>
+				@foreach(var item in list)
+				{
+					<tr>
+						<td>@item.NombreChofer</td>
+						<td>@item.NombreDestino</td>
+						<td>@item.Fecha</td>
+						<td>$ @item.Costo</td>
+						<td>$ @item.Maniobra</td>
+						<td>@item.ControlVehicular</td>
+					</tr>
+				}
+			</tbody>
+		</table>
+		<div class="fields">
+			<div class="four with field">
+				<label class="ui big label" >Total: $@ViewData["CosteTotal"]</label>
+				
+			</div>
+		</div>
+		<div class="fields">
+			<div class="four with field">
+				<label class="ui big label">Coste Total de Maniobras: $@ViewData["CosteTotalManiobras"]</label>
+
+			</div>
+		</div>
+	</div>
+
+}

@@ -1,0 +1,57 @@
+﻿@{
+	ViewData["Title"] = "AdminDestinos";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+	var dataDestino = ViewData["DataDestino"] as Destinos;
+}
+@model Destinos;
+@if (TempData.ContainsKey("Exception"))
+{
+	@Html.Raw(TempData["Exception"].ToString())
+	;
+}
+<div class="ui container segment">
+	<div class="ui equal width form">
+		<a class="ui blue ribbon label">Destino</a>
+		<form method="post" action="@Url.Action("Index","AdministrarDestinos")">
+			@if (ViewData.ContainsKey("genNew"))
+			{
+				<div class="fields">
+					<div class="four wide field">
+						<label>Nombre del Destino</label>
+						<input asp-for="Nombre" id="txtNomDestino" type="text" />
+					</div>
+					<div class="four wide field">
+						<label>Costo </label>
+						<input asp-for=Costo id="txtCosto" type="text" placeholder="$costo"/>
+					</div>
+				</div>
+				<div class="four wide field">
+					<button class="ui primary button" type="submit" name="accion" value="CrearDestino" style="background-color:lawngreen">Crear</button>
+				</div>
+			}
+			@if (ViewData.ContainsKey("modifi"))
+			{
+				<div class="fields">
+					<div class="four wide field">
+						<label>Nombre del Destino</label>
+						<input asp-for="Nombre" id="txtNomDestino" value="@dataDestino.Nombre" type="text" />
+						<input type="hidden" asp-for="CveDestino" value="@dataDestino.CveDestino">
+					</div>
+					<div class="four wide field">
+						<label>Costo </label>
+						<input asp-for=Costo id="txtCosto" value="$ @dataDestino.Costo" type="text" />
+					</div>
+				</div>
+				<div class="fields">
+					<div class="four wide field">
+						<button class="ui secundary button" type="submit" name="accion" value="Modificar">Guardar Cambios</button>
+					</div>
+					
+				</div>
+			}
+		</form>
+
+		
+
+	</div>
+</div>

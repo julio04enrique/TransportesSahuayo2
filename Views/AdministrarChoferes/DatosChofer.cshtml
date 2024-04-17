@@ -1,0 +1,94 @@
+﻿@{
+	ViewData["Title"] = "AdminChofer";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+	var DataCh = ViewData["DatosChofer"] as Chofer;
+
+}
+@model Chofer;
+@if (TempData.ContainsKey("Exception"))
+{
+	@Html.Raw(TempData["Exception"].ToString());
+}
+<div class="ui container segment">
+	<div class="ui equal width form">
+		<a class="ui blue ribbon label">Gestion del Chofer</a>
+		<form method="post" action="@Url.Action("Index","AdministrarChoferes")">
+			@if (ViewData.ContainsKey("genNew"))
+			{
+				<div class="fields">
+					<div class="four wide field">
+						<label>Nombre</label>
+						<input id="txtNombre" asp-for=Nombre type="text" />
+					</div>
+					<div class="four wide field">
+						<label>Apellido Paterno</label>
+						<input id="txtApellidoP" asp-for=ApellidoPat type="text" />
+					</div>
+					<div class="four wide field">
+						<label>Apellido Matreno</label>
+						<input id="txtApellidoM" asp-for="ApellidoMat" type="text" />
+					</div>
+
+				</div>
+				<div class="fields">
+					<div class="six wide field">
+						<label>Usuario</label>
+						<input id="txtUsuario" asp-for="NameUsuario" type="text" />
+
+					</div>
+					<div class="six wide field">
+						<label>Contrase&ntilde;a</label>
+						<input id="txtContrasena" asp-for="Contrasena" type="text" />
+
+					</div>
+				</div>
+				<div class="four wide field">
+					<button class="ui primary button" name="accion" type="submit" value="GenerarNuevo" style="background-color:lawngreen">Generar</button>
+				</div>
+			}
+			@if (ViewData.ContainsKey("modifi"))
+			{
+				<div class="fields">
+					<div class="four wide field">
+						<label>Nombre</label>
+						<input id="txtNombre" asp-for=Nombre type="text" value="@DataCh.Nombre"/>
+						<input type="hidden" asp-for="CvePersona" value="@DataCh.CvePersona">
+						<input type="hidden" asp-for="CveUsuario" value="@DataCh.CveUsuario">
+					</div>
+					<div class="four wide field">
+						<label>Apellido Paterno</label>
+						<input id="txtApellidoP" asp-for=ApellidoPat type="text" value="@DataCh.ApellidoPat" />
+					</div>
+					<div class="four wide field">
+						<label>Apellido Matreno</label>
+						<input id="txtApellidoM" asp-for="ApellidoMat" type="text" value="@DataCh.ApellidoMat" />
+					</div>
+
+				</div>
+				<div class="fields">
+					<div class="six wide field">
+						<label>Usuario</label>
+						<input id="txtUsuario" asp-for="NameUsuario" type="text" value="@DataCh.NameUsuario" />
+
+					</div>
+					<div class="six wide field">
+						<label>Contrase&ntilde;a</label>
+						<input id="txtContrasena" asp-for="Contrasena" type="text" value="@DataCh.Contrasena"/>
+
+					</div>
+				</div>
+				<div class="fields">
+					<div class="four wide field">
+						<button class="ui secundary button" type="submit" name="accion" value="Modificar">Guardar Cambios</button>
+					</div>
+					<div class="four wide field">
+						<button class="ui button" style="background-color: red" type="submit" name="accion" value="Eliminar">Eliminar</button>
+					</div>
+				</div>
+				
+			}
+		</form>
+	</div>
+	
+
+</div>

@@ -1,0 +1,1661 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TransporteSahuayoAsp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TransporteSahuayoAsp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\.versions",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\.versions"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\LICENSE",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\README.md",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\S6u8w4BMUTPHjxsAXC-v.ttf",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\S6u8w4BMUTPHjxsAXC-v.ttf"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\S6u9w4BMUTPHh6UVSwiPHA.ttf",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\S6u9w4BMUTPHh6UVSwiPHA.ttf"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\S6uyw4BMUTPHjx4wWw.ttf",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\S6uyw4BMUTPHjx4wWw.ttf"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\accordion.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\accordion.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\accordion.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\accordion.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\accordion.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\accordion.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\accordion.min.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\accordion.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\ad.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\ad.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\ad.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\ad.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\api.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\api.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\api.min.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\api.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\breadcrumb.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\breadcrumb.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\breadcrumb.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\breadcrumb.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\button.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\button.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\button.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\button.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\card.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\card.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\card.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\card.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\checkbox.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\checkbox.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\checkbox.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\checkbox.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\checkbox.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\checkbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\checkbox.min.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\checkbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\colorize.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\colorize.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\colorize.min.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\colorize.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\comment.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\comment.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\comment.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\comment.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\container.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\container.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\container.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\container.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\dimmer.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\dimmer.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\dimmer.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\dimmer.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\dimmer.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\dimmer.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\dimmer.min.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\dimmer.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\divider.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\divider.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\divider.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\divider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\dropdown.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\dropdown.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\dropdown.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\dropdown.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\dropdown.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\dropdown.min.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\dropdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\embed.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\embed.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\embed.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\embed.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\embed.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\embed.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\embed.min.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\embed.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\feed.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\feed.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\feed.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\feed.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\flag.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\flag.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\flag.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\flag.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\form.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\form.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\form.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\form.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\form.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\form.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\form.min.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\form.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\grid.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\grid.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\grid.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\header.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\header.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\header.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\header.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\icon.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\icon.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\icon.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\icon.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\image.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\image.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\image.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\image.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\input.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\input.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\input.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\input.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\item.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\item.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\item.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\item.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\label.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\label.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\label.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\label.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\list.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\list.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\list.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\list.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\loader.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\loader.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\loader.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\loader.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\menu.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\menu.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\menu.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\menu.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\message.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\message.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\message.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\message.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\modal.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\modal.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\modal.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\modal.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\modal.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\modal.min.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\modal.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\nag.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\nag.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\nag.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\nag.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\nag.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\nag.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\nag.min.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\nag.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\placeholder.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\placeholder.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\placeholder.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\placeholder.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\popup.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\popup.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\popup.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\popup.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\popup.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\popup.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\popup.min.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\progress.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\progress.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\progress.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\progress.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\progress.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\progress.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\progress.min.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\progress.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\rail.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\rail.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\rail.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\rail.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\rating.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\rating.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\rating.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\rating.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\rating.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\rating.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\rating.min.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\rating.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\reset.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\reset.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\reset.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\reset.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\reveal.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\reveal.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\reveal.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\reveal.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\search.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\search.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\search.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\search.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\search.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\search.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\search.min.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\search.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\segment.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\segment.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\segment.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\segment.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\shape.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\shape.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\shape.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\shape.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\shape.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\shape.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\shape.min.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\shape.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\sidebar.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\sidebar.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\sidebar.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\sidebar.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\sidebar.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\sidebar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\sidebar.min.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\sidebar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\site.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\site.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\site.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\site.min.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\site.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\state.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\state.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\state.min.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\state.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\statistic.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\statistic.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\statistic.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\statistic.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\step.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\step.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\step.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\step.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\sticky.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\sticky.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\sticky.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\sticky.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\sticky.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\sticky.min.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\sticky.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\tab.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\tab.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\tab.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\tab.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\tab.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\tab.min.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\tab.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\table.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\table.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\table.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\table.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\transition.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\transition.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\transition.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\transition.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\transition.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\transition.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\transition.min.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\transition.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\video.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\video.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\video.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\video.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\video.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\video.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\video.min.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\visibility.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\visibility.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\visibility.min.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\visibility.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\visit.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\visit.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\components\\visit.min.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\components\\visit.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\fonts.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\fonts.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\package.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\package.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\package.json",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\semantic.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\semantic.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\semantic.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\semantic.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\semantic.min.css",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\semantic.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\semantic.min.js",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\semantic.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\brand-icons.eot",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\brand-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\brand-icons.svg",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\brand-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\brand-icons.ttf",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\brand-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\brand-icons.woff",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\brand-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\brand-icons.woff2",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\brand-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\icons.eot",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\icons.otf",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\icons.otf"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\icons.svg",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\icons.ttf",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\icons.woff",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\icons.woff2",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\outline-icons.eot",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\outline-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\outline-icons.svg",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\outline-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\outline-icons.ttf",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\outline-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\outline-icons.woff",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\outline-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\outline-icons.woff2",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\themes\\default\\assets\\fonts\\outline-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\semantic-ui-css\\themes\\default\\assets\\images\\flags.png",
+      "PackagePath": "staticwebassets\\css\\semantic-ui-css\\themes\\default\\assets\\images\\flags.png"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\Images\\Transportes sahuayo20.png",
+      "PackagePath": "staticwebassets\\lib\\Images\\Transportes sahuayo20.png"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\Images\\Transportes sahuayo30.png",
+      "PackagePath": "staticwebassets\\lib\\Images\\Transportes sahuayo30.png"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\Images\\Transportes_sahuayo.png",
+      "PackagePath": "staticwebassets\\lib\\Images\\Transportes_sahuayo.png"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\.versions",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\.versions"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\README.md",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\S6u8w4BMUTPHjxsAXC-v.ttf",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\S6u8w4BMUTPHjxsAXC-v.ttf"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\S6u9w4BMUTPHh6UVSwiPHA.ttf",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\S6u9w4BMUTPHh6UVSwiPHA.ttf"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\S6uyw4BMUTPHjx4wWw.ttf",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\S6uyw4BMUTPHjx4wWw.ttf"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\accordion.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\accordion.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\accordion.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\accordion.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\accordion.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\accordion.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\accordion.min.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\accordion.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\ad.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\ad.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\ad.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\ad.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\api.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\api.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\api.min.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\api.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\breadcrumb.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\breadcrumb.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\breadcrumb.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\breadcrumb.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\button.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\button.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\button.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\button.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\card.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\card.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\card.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\card.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\checkbox.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\checkbox.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\checkbox.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\checkbox.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\checkbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\checkbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\checkbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\checkbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\colorize.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\colorize.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\colorize.min.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\colorize.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\comment.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\comment.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\comment.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\comment.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\container.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\container.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\container.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\container.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\dimmer.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\dimmer.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\dimmer.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\dimmer.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\dimmer.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\dimmer.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\dimmer.min.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\dimmer.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\divider.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\divider.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\divider.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\divider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\dropdown.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\dropdown.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\dropdown.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\dropdown.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\dropdown.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\dropdown.min.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\dropdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\embed.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\embed.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\embed.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\embed.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\embed.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\embed.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\embed.min.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\embed.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\feed.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\feed.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\feed.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\feed.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\flag.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\flag.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\flag.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\flag.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\form.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\form.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\form.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\form.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\form.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\form.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\form.min.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\form.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\grid.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\grid.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\header.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\header.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\header.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\header.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\icon.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\icon.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\icon.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\icon.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\image.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\image.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\image.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\image.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\input.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\input.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\input.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\input.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\item.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\item.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\item.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\item.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\label.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\label.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\label.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\label.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\list.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\list.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\list.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\list.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\loader.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\loader.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\loader.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\loader.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\menu.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\menu.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\menu.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\menu.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\message.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\message.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\message.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\message.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\modal.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\modal.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\modal.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\modal.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\modal.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\modal.min.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\modal.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\nag.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\nag.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\nag.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\nag.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\nag.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\nag.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\nag.min.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\nag.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\placeholder.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\placeholder.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\placeholder.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\placeholder.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\popup.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\popup.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\popup.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\popup.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\popup.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\popup.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\popup.min.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\progress.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\progress.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\progress.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\progress.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\progress.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\progress.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\progress.min.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\progress.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\rail.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\rail.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\rail.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\rail.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\rating.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\rating.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\rating.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\rating.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\rating.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\rating.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\rating.min.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\rating.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\reset.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\reset.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\reset.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\reset.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\reveal.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\reveal.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\reveal.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\reveal.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\search.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\search.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\search.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\search.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\search.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\search.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\search.min.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\search.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\segment.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\segment.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\segment.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\segment.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\shape.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\shape.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\shape.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\shape.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\shape.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\shape.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\shape.min.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\shape.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\sidebar.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\sidebar.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\sidebar.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\sidebar.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\sidebar.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\sidebar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\sidebar.min.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\sidebar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\site.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\site.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\site.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\site.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\site.min.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\site.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\state.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\state.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\state.min.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\state.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\statistic.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\statistic.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\statistic.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\statistic.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\step.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\step.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\step.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\step.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\sticky.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\sticky.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\sticky.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\sticky.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\sticky.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\sticky.min.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\sticky.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\tab.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\tab.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\tab.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\tab.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\tab.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\tab.min.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\tab.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\table.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\table.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\table.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\table.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\transition.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\transition.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\transition.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\transition.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\transition.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\transition.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\transition.min.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\transition.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\video.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\video.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\video.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\video.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\video.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\video.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\video.min.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\visibility.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\visibility.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\visibility.min.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\visibility.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\visit.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\visit.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\components\\visit.min.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\components\\visit.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\fonts.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\fonts.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\package.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\package.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\package.json",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\semantic.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\semantic.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\semantic.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\semantic.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\semantic.min.css",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\semantic.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\semantic.min.js",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\semantic.min.js"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\brand-icons.eot",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\brand-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\brand-icons.svg",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\brand-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\brand-icons.ttf",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\brand-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\brand-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\brand-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\brand-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\brand-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\icons.eot",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\icons.otf",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\icons.otf"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\icons.svg",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\icons.ttf",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\icons.woff",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\outline-icons.eot",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\outline-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\outline-icons.svg",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\outline-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\outline-icons.ttf",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\outline-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\outline-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\outline-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\outline-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\themes\\default\\assets\\fonts\\outline-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\JULIO ENRIQUE\\Documents\\TransporteSahuayoAsp\\TransporteSahuayoAsp\\wwwroot\\lib\\semantic-ui\\themes\\default\\assets\\images\\flags.png",
+      "PackagePath": "staticwebassets\\lib\\semantic-ui\\themes\\default\\assets\\images\\flags.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TransporteSahuayoAsp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TransporteSahuayoAsp.props",
+      "PackagePath": "build\\TransporteSahuayoAsp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TransporteSahuayoAsp.props",
+      "PackagePath": "buildMultiTargeting\\TransporteSahuayoAsp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TransporteSahuayoAsp.props",
+      "PackagePath": "buildTransitive\\TransporteSahuayoAsp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

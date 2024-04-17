@@ -1,0 +1,83 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="ui container segment">
+
+    <div class="ui equal width form">
+        <div class="fields">
+            <div class="five width field">
+                <h1>Tus Viajes de la Semana Actual !</h1>
+            </div>
+            
+        </div>
+        
+        @if (ViewData.ContainsKey("WeekViajes"))
+        {
+            <table class="ui celled table">
+                <thead>
+                    <tr>
+                        <th>Fecha</th>
+                        <th>Destino</th>
+                        <th>Costo</th>
+                        <th>Maniobra</th>
+                        <th>Control Vehicular</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (User.IsInRole("Chofer"))
+                    {
+                        var listV = ViewData["WeekViajes"] as List<ViajesChofer>;
+                        @foreach (var item in listV)
+                        {
+                            <tr>
+                                <td>@item.Fecha</td>
+                                <td>@item.NombreDestino</td>
+                                <td>$ @item.Costo</td>
+                                <td>$ @item.Maniobra</td>
+                                <td>@item.ControlVehicular</td>
+                            </tr>
+                        }
+                    }
+                    @if (User.IsInRole("Admin"))
+                    {
+                        var listV = ViewData["WeekViajes"] as List<ViajesAdmin>;
+                        @foreach (var item in listV)
+                        {
+                            <tr>
+                                <td>@item.Fecha</td>
+                                <td>@item.NombreDestino</td>
+                                <td>$ @item.Costo</td>
+                                <td>$ @item.Maniobra</td>
+                                <td>@item.ControlVehicular</td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+            <div class="fields">
+                <div class="four with field">
+                    <label class="ui big label">Total: $@ViewData["CosteTotal"]</label>
+
+                </div>
+            </div>
+            <div class="fields">
+                <div class="four with field">
+                    <label class="ui big label">Coste Total de Maniobras: $@ViewData["CosteTotalManiobras"]</label>
+
+                </div>
+            </div>
+
+        }
+        else
+        {
+            <div class="fields">
+                <div class="five width field">
+                    <h1>Aun no tienes Viajes </h1>
+                </div>
+
+            </div>
+        }
+    </div>
+</div>
+

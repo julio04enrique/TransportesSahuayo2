@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "AdminChofer";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var listChof = ViewData["ChoferesList"] as List<Chofer>;
+}
+@model Chofer;
+@if (TempData.ContainsKey("Exception"))
+{
+    @Html.Raw(TempData["Exception"].ToString())
+    ;
+}
+<div class="ui container segment">
+    <a class="ui blue ribbon label">Administrar Choferes</a>
+
+    <form method="post" action="@Url.Action("Index","AdministrarChoferes")">
+        <table class="ui celled table">
+            <thead>
+                <tr>
+                    <th>Opcion</th>
+                    <th>Nombre</th>
+                    <th>Apellidos</th>
+                    <th>Apellidos</th>
+                    <th>Usuario</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var item in listChof)
+                {
+                    <tr>
+                        <td><button class="ui secondary button" name="CveChofer" value="@item.CveChofer" asp-action="SelectChofer">Seleccionar</button></td>
+						<td>@item.Nombre</td>
+                        <td>@item.ApellidoPat</td>
+                        <td>@item.ApellidoMat</td>
+                        <td>@item.NameUsuario</td>
+                    </tr>
+                }
+                
+            </tbody>
+        </table>
+        <div class="fields">
+            <div class="five wide field">
+                <button class="ui primary button" type="submit" name="accion" value="GenerarNuevoView">Generar Nuevo</button>
+            </div>
+        </div>
+    </form>
+</div>
+

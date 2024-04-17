@@ -1,0 +1,123 @@
+﻿
+@using Microsoft.AspNetCore.Identity;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>@ViewData["Title"] - TransporteSahuayoAsp</title>
+	<link href="~/lib/semantic-ui/semantic.css" rel="stylesheet" />
+
+	<link rel="stylesheet" href="~/css/site.css"  asp-append-version="true" />
+	<link rel="stylesheet" href="~/TransporteSahuayoAsp.styles.css" asp-append-version="true" />
+	<script type="text/javascript" src="~/lib/jquery/dist/jquery.js"></script>
+	<script type="text/javascript" src="~/lib/semantic-ui/semantic.js"></script>
+	<script type="text/javascript" src="~/js/site.js"></script>
+	<style>
+		.ui.footer.segment {
+			margin: 5em 0em 0em;
+			padding: 5em 0em;
+		}
+	</style>
+</head>
+<body>
+
+
+	<!-- Start: Contenido de la página -->
+	<div class="pusher">
+
+		<!-- Start: Encabezado -->
+		<div class="ui menu attached" style="background-color: #808080">
+			<div class="header item">
+				<img class="ui tiny image" src="~/lib/Images/Transportes sahuayo20.png" />
+			</div>
+			<div class="header item">
+				<h1>Transportes Sahuayo</h1>
+			</div>
+			<div class="right menu">
+				<div class="item">
+					<a class="ui negative button"  asp-controller="Login" asp-action="CerrarSesion">
+						Cerrar Sesion
+					</a>
+				</div>
+
+			</div>
+		</div>
+		<!-- End: Encabezado -->
+		<!-- MEnu -->
+		<div class="ui fixed text">
+			<div class="ui large secondary menu">
+				<a class="toc item" id="clicMenu">
+					<i class="sidebar large icon"></i>
+					Menu
+				</a>
+			</div>
+			<div class="right item">
+				<a class="ui big green basic large label">
+					<i class="user icon"></i>
+					Bienvenido: @User.Identity.Name
+				</a>
+				<div class="fields">
+					<div class="two width field">
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="ui sidebar vertical menu">
+			<!-- Elementos del menú -->
+			@if (User.IsInRole("Admin"))
+			{
+				<a class="item" id="mInicio" asp-controller="Home" asp-action="IndexA">Inicio</a>
+			}
+			@if (User.IsInRole("Chofer"))
+			{
+				<a class="item" id="mInicio" asp-controller="Home" asp-action="IndexC">Inicio</a>
+			}
+			@if (User.IsInRole("Admin"))
+			{
+				<a class="item" id="mAdminChoferes" asp-controller="AdministrarChoferes" asp-action="Index">Administrar Choferes</a>
+			}
+			@if (User.IsInRole("Admin"))
+			{
+				<a class="item" id="mMarcarViajes" asp-controller="MarcarViajes" asp-action="Index">Marcar Viajes</a>
+			}
+			@if (User.IsInRole("Admin"))
+			{
+				<a class="item" id="mAdminDestinos" asp-controller="AdministrarDestinos" asp-action="Index">Administrar Destinos</a>
+			}
+			@if (User.IsInRole("Admin") || User.IsInRole("Chofer"))
+			{
+				<a class="item" id="mGenViaje" asp-controller="GenerarNuevoViaje" asp-action="Index">Generar Nuevo Viaje</a>
+			}
+			@if (User.IsInRole("Admin"))
+			{
+				<a class="item" id="mGenListViajes" asp-controller="GenerarListaViaje" asp-action="Index">Generar Lista De Viajes</a>
+			}
+			
+		</div>
+		<div class="pusher">
+			@RenderBody()
+		</div>
+		
+
+		<footer class="ui inverted vertical center aligned footer segment">
+			<div class="ui container">
+			</div>
+		</footer>
+	</div>
+	
+	<script src="~/js/site.js" asp-append-version="true"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
+	<script>
+		$('.ui #clicMenu').on('click',function () {
+			// Inicializa el menú lateral
+			$('.ui.sidebar').sidebar('toggle');
+		});
+		$('.ui.basic.modal')
+			.modal('show')
+			;
+	</script>
+</body>
+</html>

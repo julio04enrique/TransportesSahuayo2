@@ -1,0 +1,187 @@
+﻿@{
+	ViewData["Title"] = "GenViaje";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model Viaje;
+<script>
+	$(document).ready(function () {
+		$("#btnEnv").prop("disabled", true);
+		$.ajax({
+			url: '/GenerarNuevoViaje/GetDestinos',
+			type: 'GET',
+			dataType: 'json',
+			success: function (data) {
+				$("#slcDestino").html("<option value='0'>Selecciona Un Destino </option>");
+				var select = document.getElementById("slcDestino");
+				data.forEach(function (value, index) {
+					var option = document.createElement("option");
+					option.text = value.nombre;
+					option.value = value.cveDestino;
+					select.add(option);
+				});
+			}, error: function () {
+				console.log("NOentroScrip");
+			}
+		});
+		var check = document.getElementById("chkManiobra");
+		var input = document.getElementById('txtManiobra');
+		var label = document.getElementById("lblMani");
+		check.addEventListener('change', function () {
+			if (check.checked) {
+				input.style.display = 'block';
+				label.style.display = 'block';
+			} else {
+				input.style.display = 'none';
+				label.style.display = 'none';
+			}
+
+		});
+	});
+	const DestinoSelect = () => {
+		var cveDestino = $("#slcDestino").val();
+
+		$.ajax({
+			url: '/GenerarNuevoViaje/GetDatosDestino',
+			type: 'POST',
+			dataType: 'json',
+			data: { cveDestino: cveDestino },
+			success: function (data) {
+				$('#txtCosto').val(data.costo);
+			},
+			error: function () {
+
+			}
+		})
+	}
+	$(function () {
+		$("#txtContVehi").on('input', ContVe);
+
+	})
+	function ContVe() {
+		var val = document.getElementById("txtContVehi");
+
+		var regex = /^([0-9]{7,8})$/;
+		var validado = new RegExp(regex).exec(val.value);
+		if (validado) {
+			$("#msjCont").css('color', 'green');
+			$("#msjCont").html("Validado");
+			$("#btnEnv").prop("disabled", false);
+
+		} else {
+			$("#msjCont").css('color', 'red');
+			$("#msjCont").html("Control Vehicular no valido");
+			$("#btnEnv").prop("disabled", true);
+		}
+
+
+	}
+</script>
+@if (TempData.ContainsKey("Exception"))
+{
+	@Html.Raw(TempData["Exception"].ToString())
+}
+<div class="ui container segment">
+	<div class="ui equal width form">
+		<a class="ui blue ribbon label">Generar Nuevo Viaje</a>
+		@if (User.IsInRole("Admin"))
+		{
+			<form method="post" action="@Url.Action("IndexA","GenerarNuevoViaje")">
+				<div class="fields">
+					<div class="four with field">
+						<label>Destino</label>
+						<select class="ui selected" required asp-for="CveDestino" id="slcDestino" onchange="DestinoSelect();">
+						</select>
+					</div>
+					<div class="four with field">
+						<label>Costo</label>
+						<input id="txtCosto" type="text" readonly />
+
+					</div>
+				</div>
+				<div class="fields">
+
+					<div class="four with field">
+						<label class="ui large label">Hay Maniobra?</label>
+						<div class="ui left floated compact segment">
+							<div class="ui fitted toggle checkbox">
+								<input type="checkbox" id="chkManiobra">
+								<label></label>
+							</div>
+						</div>
+						<label>Si</label>
+					</div>
+					<div class="four with field">
+						<label id="lblMani" style="display: none;">Maniobra</label>
+						<input id="txtManiobra" type="text" asp-for="Maniobra" style="display: none;" />
+					</div>
+				</div>
+				<div class="fields">
+					<div class="four with field">
+						<label>Control Vehicular</label>
+						<input id="txtContVehi" type="text"  asp-for="ControlVehicular" />
+						<label id="msjCont"></label>
+					</div>
+				</div>
+
+				<div class="fields">
+					<div class="five with center field">
+						<button id="btnEnv" class="ui green button" name="accion" value="NuevoViaje" type="submit">Generar Viaje</button>
+					</div>
+				</div>
+
+			</form>
+		}
+		@if (User.IsInRole("Chofer"))
+		{
+			<form method="post" action="@Url.Action("IndexC","GenerarNuevoViaje")">
+				<div class="fields">
+					<div class="four with field">
+						<label>Destino</label>
+						<select class="ui selected" required asp-for="CveDestino" id="slcDestino" onchange="DestinoSelect();">
+						</select>
+					</div>
+					<div class="four with field">
+						<label>Costo</label>
+						<input id="txtCosto" type="text" readonly />
+
+					</div>
+				</div>
+				<div class="fields">
+
+					<div class="four with field">
+						<label class="ui large label">Hay Maniobra?</label>
+						<div class="ui left floated compact segment">
+							<div class="ui fitted toggle checkbox">
+								<input type="checkbox" id="chkManiobra">
+								<label></label>
+							</div>
+						</div>
+						<label>Si</label>
+					</div>
+					<div class="four with field">
+						<label id="lblMani" style="display: none;">Maniobra</label>
+						<input id="txtManiobra" type="text" required asp-for="Maniobra" style="display: none;" />
+					</div>
+				</div>
+				<div class="fields">
+					<div class="four with field">
+						<label>Control Vehicular</label>
+						<input id="txtContVehi" type="text" required asp-for="ControlVehicular" />
+						<label id="msjCont"></label>
+					</div>
+				</div>
+
+				<div class="fields">
+					<div class="five with center field">
+						<button class="ui green button" id="btnEnv" name="accion" value="NuevoViaje" type="submit">Generar Viaje</button>
+					</div>
+				</div>
+
+
+
+			</form>
+		}
+	</div>
+</div>
+
+
