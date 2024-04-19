@@ -103,6 +103,7 @@ C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\D
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
@@ -119,6 +120,7 @@ C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\D
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Configuration.dll
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Console.dll
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Debug.dll
@@ -312,6 +314,7 @@ C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\D
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
@@ -330,6 +333,7 @@ C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\D
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\Npgsql.dll
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\NuGet.Common.dll
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\NuGet.Configuration.dll
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
@@ -489,6 +493,8 @@ C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\D
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\obj\Debug\net7.0\TransporteSahuayoAsp.csproj.AssemblyReference.cache
@@ -516,9 +522,3 @@ C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\obj\D
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\obj\Debug\net7.0\TransporteSahuayoAsp.pdb
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\obj\Debug\net7.0\TransporteSahuayoAsp.genruntimeconfig.cache
 C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\obj\Debug\net7.0\ref\TransporteSahuayoAsp.dll
-C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
-C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\Npgsql.dll
-C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\JULIO ENRIQUE\Documents\TransporteSahuayoAsp\TransporteSahuayoAsp\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
