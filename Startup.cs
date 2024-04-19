@@ -52,6 +52,7 @@ namespace TransporteSahuayoAsp
             {
                 app.UseDeveloperExceptionPage();
                 Console.WriteLine(app.UseDeveloperExceptionPage());
+                
 			}
             else
             {

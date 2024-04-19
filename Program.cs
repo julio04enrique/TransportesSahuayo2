@@ -1,3 +1,4 @@
+using System.Net;
 using TransporteSahuayoAsp;
 
 namespace TransporteSahuayoAsp
@@ -14,6 +15,7 @@ namespace TransporteSahuayoAsp
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
+                    
                 });
     }
 }
