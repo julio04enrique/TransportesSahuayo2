@@ -48,10 +48,10 @@ namespace TransporteSahuayoAsp
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             
-           
+            
                 app.UseDeveloperExceptionPage();
-
-			app.UseExceptionHandler("/Login/Error");
+			
+                app.UseExceptionHandler("/Login/Error");
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             
